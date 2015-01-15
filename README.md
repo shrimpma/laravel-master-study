@@ -1,5 +1,6 @@
 # laravel-master
 包括框架依赖的类库，下载源码后 就可以运行，不用composer
+
 1.关于安装
 如果在windows 比较麻烦，命令行是鸡肋
 
